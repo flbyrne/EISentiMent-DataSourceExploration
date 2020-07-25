@@ -1,0 +1,13 @@
+name: environment
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - json
+  - urllib
+  - datetime
+  - bs4
+  - calendar
+  - re
+  - matplotlib
+  - seaborn
